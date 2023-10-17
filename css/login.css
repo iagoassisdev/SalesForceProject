@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(./img/fundo-login.svg);
+    background-image: url(../img/fundo-login.svg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;

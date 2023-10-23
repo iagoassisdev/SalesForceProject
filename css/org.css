@@ -274,10 +274,12 @@ body {
   width: 75%;
   height: 80%;
 
+
 }
 
 .content-banner img {
-  	flex: content;
+  min-width: 900px;
+  max-width: 1900px;
 }
 
 /* FOOTER CONTENT */
